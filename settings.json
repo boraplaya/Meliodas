@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": mrbora.aternos.me,
+    "ip": "mrbora.aternos.me",
     "port": 21586,
     "version": "",
     "try-creative": false
